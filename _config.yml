@@ -1,4 +1,3 @@
-post_asset_folder: true
 # Basic
 title: 潘柏信
 subtitle: 个人站
@@ -7,6 +6,7 @@ description: 欢迎来到我的个人站~
 avatarTitle: leopardpan
 # 头像里面的描述
 avatarDesc: iOS / 机器学习
+url: "https://JingyuSun.github.io/"
 
 # 博客是否自动生成目录，false为不生成
 enableToc: true
@@ -54,10 +54,10 @@ blog_button:
 
 # Navigation buttons in the front page.s
 nav:
-    - {title: 所有文章, description: archive, url: '/leopardpan.github.io/archive'}   
-    - {title: 标签, description: tags, url: '/leopardpan.github.io/tags'}      
-    - {title: 技术支持, description: support, url: '/leopardpan.github.io/support'}      
-    - {title: 关于我, description: about, url: '/leopardpan.github.io/about'}   
+    - {title: 所有文章, description: archive, url: '/archive'}   
+    - {title: 标签, description: tags, url: '/tags'}      
+    - {title: 技术支持, description: support, url: '/support'}      
+    - {title: 关于我, description: about, url: '/about'}   
     
 
 # Pagination
